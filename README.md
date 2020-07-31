@@ -1,4 +1,4 @@
-# Detail explanation available at => https://www.appwithflutter.com/flutter-firebase-authentication-tutorial/
+# Detail explanation available at => https://www.appwithflutter.com/flutter-state-management-with-getx/
 
 ScreenShot | ScreenShot
 ------------ | -------------
